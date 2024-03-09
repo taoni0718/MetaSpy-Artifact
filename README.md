@@ -1,6 +1,7 @@
 # VRSnoop
-Anonymous Artifact of VRSnoop (MobiCom'24 Submission)
+Anonymous Artifact Repository of VRSnoop (MobiCom'24 Submission). More details will be available.
 
+## Experimental Details
 
 ### Appendix A: Full list of the energy-based features (time- and frequency-domain) of the harvested RF energy
 |    **Time-domain (Abbr.)**    |                                                                                                       **Description**                                                                                                       |
@@ -133,3 +134,58 @@ Anonymous Artifact of VRSnoop (MobiCom'24 Submission)
 | _A48_ |          Omission         |  Education | $\checkmark$ |   Both   | Multiple |     5     |
 | _A49_ |        Cube Riddle        |    Games   | $\checkmark$ |   Both   |  Single  |     3     |
 | _A50_ |         Swordsman         |    Games   | $\checkmark$ |   Both   |  Single  |     2     |
+
+
+### Appendix B-3:  Full list of 50 Websites in evaluation.
+| **#** |    **Website**    |         **Category**         | **Monthly Visits** |
+|:-----:|:-----------------:|:----------------------------:|:------------------:|
+|  _W1_ |     google.com    |        Search engines        |     93400000000    |
+|  _W2_ |    youtube.com    |           Online TV          |     82800000000    |
+|  _W3_ |    facebook.com   |     Social media networks    |     11400000000    |
+|  _W4_ |    twitter.com    |     Social media networks    |     8100000000     |
+|  _W5_ |   wikipedia.org   | Dictionaries & encyclopedias |     6400000000     |
+|  _W6_ |   instagram.com   |     Social media networks    |     5400000000     |
+|  _W7_ |     reddit.com    |     Social media networks    |     4700000000     |
+|  _W8_ |     tiktok.com    |           Online TV          |     2900000000     |
+|  _W9_ |     fandom.com    |           Online TV          |     2600000000     |
+| _W10_ |   lectortmo.com   |             Adult            |     2500000000     |
+| _W11_ |     yahoo.com     |     Social media networks    |     2500000000     |
+| _W12_ |     amazon.com    |     eCommerce & shopping     |     2500000000     |
+| _W13_ |    weather.com    |            Weather           |     2500000000     |
+| _W14_ |     yandex.ru     |        Search engines        |     2300000000     |
+| _W15_ |     openai.com    |      Computer technology     |     2000000000     |
+| _W16_ |    whatsapp.com   |     Social media networks    |     1900000000     |
+| _W17_ |   duckduckgo.com  |        Search engines        |     1800000000     |
+| _W18_ |     twitch.tv     |           Online TV          |     1700000000     |
+| _W19_ |       vk.com      |     Social media networks    |     1500000000     |
+| _W20_ |      bing.com     |        Search engines        |     1500000000     |
+| _W21_ |      live.com     |      Developer software      |     1400000000     |
+| _W22_ |    linkedin.com   |     Social media networks    |     1400000000     |
+| _W23_ |   microsoft.com   |      Computer technology     |     1300000000     |
+| _W24_ |     quora.com     |     Social media networks    |     1100000000     |
+| _W25_ |    netflix.com    |           Online TV          |     1100000000     |
+| _W26_ |      imdb.com     |           Online TV          |      989400000     |
+| _W27_ |    discord.com    |     Social media networks    |      915400000     |
+| _W28_ |    taboola.com    |           Business           |      913300000     |
+| _W29_ |     office.com    |      Developer software      |      857200000     |
+| _W30_ |     github.com    |      Computer technology     |      843600000     |
+| _W31_ |   aliexpress.com  |     eCommerce & shopping     |      744100000     |
+| _W32_ |      zoom.us      |      Computer technology     |      743600000     |
+| _W33_ |   pinterest.com   |     Social media networks    |      701200000     |
+| _W34_ |     indeed.com    |     Social media networks    |      662200000     |
+| _W35_ |    spotify.com    |             Music            |      661100000     |
+| _W36_ |      cnn.com      |    News & media publishers   |      655700000     |
+| _W37_ |     paypal.com    |     eCommerce & shopping     |      654000000     |
+| _W38_ |      bbc.com      |    News & media publishers   |      643900000     |
+| _W39_ |      ebay.com     |     eCommerce & shopping     |      587000000     |
+| _W40_ |     naver.com     |    News & media publishers   |      559000000     |
+| _W41_ |   wordpress.com   |    News & media publishers   |      509500000     |
+| _W42_ |    booking.com    |         Accommodation        |      474900000     |
+| _W43_ |   sharepoint.com  |     Social media networks    |      462600000     |
+| _W44_ |    samsung.com    |      Computer technology     |      443700000     |
+| _W45_ | stackoverflow.com |      Computer technology     |      402900000     |
+| _W46_ |    telegram.org   |     Social media networks    |      356200000     |
+| _W47_ |     baidu.com     |        Search engines        |      353100000     |
+| _W48_ |    walmart.com    |     eCommerce & shopping     |      334800000     |
+| _W49_ |    foxnews.com    |    News & media publishers   |      322600000     |
+| _W50_ |    bilibili.com   |           Online TV          |      263000000     |
