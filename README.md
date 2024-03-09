@@ -78,3 +78,58 @@ Anonymous Artifact of VRSnoop (MobiCom'24 Submission)
 | _A48_ |      Monday.com      |     Productivity    | $\checkmark$ |   Both   |  Single  |     5     |
 | _A49_ |       LastPass       |       Utility       | $\checkmark$ |   Both   |  Single  |     5     |
 | _A50_ |         STARZ        |  Media & Streaming  | $\checkmark$ |  Sitting |  Single  |     2     |
+
+
+### Appendix B-2:  Full list of 50 PICO apps in evaluation.
+|   #   |            App            |  Category  |     Wi-Fi    |   Mode   |   User   | # Ratings |
+|:-----:|:-------------------------:|:----------:|:------------:|:--------:|:--------:|:---------:|
+|  _A1_ |           Mutrix          |    Games   | $\checkmark$ | Standing |  Single  |    594    |
+|  _A2_ |          Rec Room         |    Games   | $\checkmark$ |   Both   | Multiple |    488    |
+|  _A3_ |      Real VR Fishing      |    Games   | $\checkmark$ |   Both   |   Both   |    270    |
+|  _A4_ |       Hyper Dash INT      |    Games   | $\checkmark$ |   Both   |   Both   |    250    |
+|  _A5_ |           FitXR           |   Sports   | $\checkmark$ |   Both   |   Both   |    206    |
+|  _A6_ |        Gun Raiders        |    Games   | $\checkmark$ |   Both   | Multiple |    173    |
+|  _A7_ |        VR-Speedway        |    Games   | $\checkmark$ |  Sitting |  Single  |    161    |
+|  _A8_ |          Blaston          |    Games   | $\checkmark$ | Standing |   Both   |    150    |
+|  _A9_ |         Red Matter        |    Games   | $\checkmark$ |   Both   |  Single  |    147    |
+| _A10_ |            Moss           |    Games   | $\checkmark$ |   Both   |  Single  |    138    |
+| _A11_ |         Ultimechs         |    Games   | $\checkmark$ |   Both   |   Both   |    131    |
+| _A12_ |           DeoVR           |    Video   | $\checkmark$ |   Both   |  Single  |    128    |
+| _A13_ |  Pioneer: Endless Journey |    Games   | $\checkmark$ | Standing |  Single  |    119    |
+| _A14_ |       Peaky Blinders      |    Games   | $\checkmark$ |   Both   |  Single  |     95    |
+| _A15_ |          Immersed         |   Social   | $\checkmark$ |  Sitting | Multiple |     91    |
+| _A16_ |       Real-Gostop VR      |    Games   | $\checkmark$ |   Both   |   Both   |     91    |
+| _A17_ |       Cactus Cowboy       |    Games   | $\checkmark$ | Standing |  Single  |     87    |
+| _A18_ |    Megan Thee Stallion    |    Video   | $\checkmark$ |   Both   |  Single  |     80    |
+| _A19_ |         Dreamland         |    Games   | $\checkmark$ |   Both   | Multiple |     74    |
+| _A20_ |        Final Soccer       |    Games   | $\checkmark$ |   Both   |   Both   |     73    |
+| _A21_ |       Gravity Sketch      |  Education | $\checkmark$ |   Both   |   Both   |     68    |
+| _A22_ |           Wolvic          |  Education | $\checkmark$ |   Both   |   Both   |     57    |
+| _A23_ |         MageCosmos        |    Games   | $\checkmark$ |   Both   |   Both   |     51    |
+| _A24_ |   Epic Roller Coaster VR  |    Games   | $\checkmark$ |  Sitting |  Single  |     49    |
+| _A25_ |       Realm of Dream      |    Games   | $\checkmark$ |   Both   |  Single  |     44    |
+| _A26_ | Chess: Multiverse Journey |    Games   | $\checkmark$ |   Both   |   Both   |     40    |
+| _A27_ |        Divine Duel        |    Games   | $\checkmark$ |   Both   | Multiple |     38    |
+| _A28_ |            Wave           |    Music   | $\checkmark$ |   Both   | Multiple |     36    |
+| _A29_ |          QUANTAAR         |    Games   | $\checkmark$ |   Both   |   Both   |     31    |
+| _A30_ |         Enhance VR        |    Games   | $\checkmark$ |   Both   |  Single  |     30    |
+| _A31_ |       Gravity League      |   Sports   | $\checkmark$ |   Both   |   Both   |     29    |
+| _A32_ |          Holofit          |    Games   | $\checkmark$ |   Both   |   Both   |     27    |
+| _A33_ |          The Key          |    Games   | $\checkmark$ |   Both   |  Single  |     27    |
+| _A34_ |        Gun World VR       |    Games   | $\checkmark$ |   Both   |   Both   |     27    |
+| _A35_ |            GRAB           |    Games   | $\checkmark$ | Standing | Multiple |     26    |
+| _A36_ |      Olly Power Play      |    Games   | $\checkmark$ |   Both   |  Single  |     23    |
+| _A37_ |           ENGAGE          |   Social   | $\checkmark$ |   Both   | Multiple |     23    |
+| _A38_ |     Learn Lithography     |  Education | $\checkmark$ | Standing |  Single  |     23    |
+| _A39_ |         Paradiddle        |    Music   | $\checkmark$ |   Both   |  Single  |     22    |
+| _A40_ |           VRROOM          |   Social   | $\checkmark$ |   Both   | Multiple |     20    |
+| _A41_ |       Chimera Reader      | Simulation | $\checkmark$ |   Both   |  Single  |     19    |
+| _A42_ |        Escape Room        |    Games   | $\checkmark$ |   Both   |  Single  |     19    |
+| _A43_ |       VirtualSpeech       |  Education | $\checkmark$ |   Both   |   Both   |     17    |
+| _A44_ |          MeetinVR         |   Social   | $\checkmark$ |   Both   | Multiple |     10    |
+| _A45_ |           STYLY           | Simulation | $\checkmark$ |   Both   |   Both   |     10    |
+| _A46_ |    Futuclass Education    |  Education | $\checkmark$ |   Both   |   Both   |     6     |
+| _A47_ |        Koord Coach        |    Games   | $\checkmark$ |   Both   |  Single  |     5     |
+| _A48_ |          Omission         |  Education | $\checkmark$ |   Both   | Multiple |     5     |
+| _A49_ |        Cube Riddle        |    Games   | $\checkmark$ |   Both   |  Single  |     3     |
+| _A50_ |         Swordsman         |    Games   | $\checkmark$ |   Both   |  Single  |     2     |
