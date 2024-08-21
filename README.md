@@ -1,5 +1,5 @@
 # VeRa
-Anonymous Artifact Repository of VeRa (NDSS'25 Submission). More details will be available.
+Anonymous Artifact Repository of VeRa (USENIX Security'25 Submission). More details will be available.
 
 ## Experimental Details
 
