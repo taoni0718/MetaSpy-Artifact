@@ -3,7 +3,7 @@ Anonymous Artifact Repository of MetaSpy (ACSAC'25 Submission). More details wil
 
 ## Experimental Details
 
-### Appendix A: Full list of the energy-based features (time- and frequency-domain) of the harvested RF energy
+### Appendix A: Full list of the energy-based features (time- and frequency-domain) of the captured Wi-Fi power
 |    **Time-domain (Abbr.)**    |                                                                                                       **Description**                                                                                                       |
 |:-----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |          Mean (mean)          |                                                                                           The average value of harvested voltages.                                                                                          |
